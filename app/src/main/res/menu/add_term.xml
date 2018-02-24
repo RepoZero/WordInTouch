@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/action_help"
+        android:icon="@drawable/help"
+        android:title="@string/helpcolor"
+        android:orderInCategory="0"
+        app:showAsAction="always"
+        android:visible="true"
+        />
+
+    <item
+        android:id="@+id/action_apply"
+        android:icon="@drawable/check"
+        android:title="@string/apply"
+        android:orderInCategory="0"
+        app:showAsAction="always"
+        android:visible="true"
+        />
+
+</menu>

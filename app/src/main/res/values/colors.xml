@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3384b9</color>
+    <color name="colorPrimaryDark">#296a94</color>
+    <color name="colorAccent">#2da5e1</color>
+    <color name="background">#fff</color>
+    <color name="listViewBackground">#eee</color>
+
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+
+
+
+    <color name="Category">#f44336   </color>
+    <color name="Translation">#9C27B0    </color>
+    <color name="Definition">#3F51B5 </color>
+    <color name="Synonym">#2196F3 </color>
+    <color name="Antonym">#4CAF50 </color>
+    <color name="Example">#FF9800 </color>
+    <color name="lst_background">#fff</color>
+
+
+</resources>

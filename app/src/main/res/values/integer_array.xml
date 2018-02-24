@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="fab_menu_item_colors">
+
+        <item>@color/Category</item>
+        <item>@color/Translation</item>
+        <item>@color/Definition</item>
+        <item>@color/Synonym</item>
+        <item>@color/Antonym</item>
+        <item>@color/Example</item>
+
+
+    </integer-array>
+</resources>

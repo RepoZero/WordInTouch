@@ -1,0 +1,49 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_Category"
+        android:icon="@drawable/category"
+        android:title="@string/Category"
+        android:orderInCategory="0"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_Translation"
+        android:icon="@drawable/translation"
+        android:title="@string/Translation"
+        android:orderInCategory="1"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_Definition"
+        android:icon="@drawable/definition"
+        android:title="@string/Definition"
+        android:orderInCategory="2"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/action_Synonym"
+        android:icon="@drawable/synonym"
+        android:title="@string/Synonym"
+        android:orderInCategory="3"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/action_Antonym"
+        android:icon="@drawable/antonym"
+        android:title="@string/Antonym"
+        android:orderInCategory="4"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/action_Example"
+        android:icon="@drawable/example"
+        android:title="@string/Example"
+        android:orderInCategory="5"
+        app:showAsAction="never"
+        />
+
+</menu>

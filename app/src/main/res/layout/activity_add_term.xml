@@ -1,0 +1,26 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+
+    <include layout="@layout/activity_add_term_content"/>
+
+
+    <io.github.yavski.fabspeeddial.FabSpeedDial
+        android:id="@+id/add_term_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        app:fabGravity="bottom_end"
+        app:fabMenu="@menu/add_term_parametr"
+        app:miniFabBackgroundTintList="@array/fab_menu_item_colors"
+        app:miniFabDrawableTint="@android:color/white"
+        app:miniFabTitleTextColorList="@array/fab_menu_item_colors" />
+
+</FrameLayout>
+
+
+
+

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">WordsInTouch</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="todo">TODO</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>\
+    <string name="skip_dialog_title">Are you sure?</string>
+    <string name="skip_dialog_text">This will not sync your data to the cloud .</string>
+    <string name="code">Code</string>
+    <string name="verify_send">We sent you a code, please enter it . </string>
+    <string name="_0_00">0:00</string>
+    <string name="Account_setting">Account setting</string>
+    <string name="Sync">Sync</string>
+    <string name="Info">Info</string>
+    <string name="Exit">Exit</string>
+    <string name="Search">Search</string>
+
+
+    <string name="Term">Term</string>
+    <string name="Type">Type</string>
+    <string name="Url">Url</string>
+    <string name="Category">Category</string>
+    <string name="Translation">Translation</string>
+    <string name="Definition">Definition</string>
+    <string name="Synonym">Synonym</string>
+    <string name="Antonym">Antonym</string>
+    <string name="Example">Example</string>
+    <string name="apply">Apply</string>
+    <string name="text">Text</string>
+
+    <string name="enter_text">Please Enter Your Text</string>
+    <string name="helpcolor">HelpColor</string>
+
+    <string name="testText">This is a Test Text </string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+
+</resources>
